@@ -1,8 +1,6 @@
 import { zodResolver } from "@hookform/resolvers/zod"
 import { MagnifyingGlass } from "phosphor-react"
 import { useForm } from "react-hook-form"
-import { TransactionsContext } from "../../contexts/TransactionsContext"
-import { useContextSelector } from "use-context-selector"
 import * as z from 'zod'
 import { useContext } from "react"
 import { AuthContext } from "../../contexts/AuthContext"

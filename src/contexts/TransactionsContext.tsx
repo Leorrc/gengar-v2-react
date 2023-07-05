@@ -1,8 +1,6 @@
 import { ReactNode, useEffect, useState, useCallback } from 'react'
 import { createContext } from 'use-context-selector'
 import { api } from '../services/api'
-import { AxiosError } from 'axios'
-import { toast } from 'react-toastify'
 
 interface Transaction {
   id: string
@@ -61,6 +59,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
           return setTransactions(response.data)
         }
 
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
       } catch (error: any) {
         // toast.error('Nenhum resultado encontrado.')
         // toast.info('Pesquise um título existente!', {

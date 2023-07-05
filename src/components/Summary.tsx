@@ -1,10 +1,7 @@
 import { CurrencyDollar } from "phosphor-react"
 import { FiArrowDownCircle, FiArrowUpCircle } from "react-icons/fi"
 import { priceFormatter } from "../utils/formatter"
-import { TransactionsContext } from "../contexts/TransactionsContext"
-import { useContextSelector } from "use-context-selector"
-import { useContext, useEffect, useState } from "react"
-import SkeletonSummary from "./utils/skeletonSummary"
+import { useContext } from "react"
 import { AuthContext } from "../contexts/AuthContext"
 
 export interface Summary {
@@ -14,16 +11,7 @@ export interface Summary {
 }
 
 export function Summary() {
-  const [isLoading, setIsLoading] = useState(false)
   const { summary } = useContext(AuthContext)
-
-  useEffect(() => {
-    setIsLoading(true)
-    setTimeout(() => {
-      setIsLoading(false)
-    }, 2000)
-  }, [])
-
 
   return (
     <>
