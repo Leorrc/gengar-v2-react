@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --background: #202024;
+
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.pulse {
+  animation: pulse 1s ease-in-out infinite;
+}
+
+.active1 {
+  background: #015f43;
+}
+
+.active2 {
+  background: #aa2834;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background: var(--background);
+}
+
+html {
+  scroll-behavior: smooth;
+  @media (max-width: 1080px) {
+    font-size: 93.75%;
+  }
+
+  @media (max-width: 720px) {
+    font-size: 87.5%;
+  }
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.HeaderColor {
+  background: #8e2de2;
+  background: -webkit-linear-gradient(to left, #4a00e0, #8e2de2);
+  background: linear-gradient(to left, #4a00e0, #8e2de2);
+}
+
+.react-modal-overlay {
+  background: rgba(0, 0, 0, 0.5);
+
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-modal-content {
+  width: 100%;
+  max-width: 576px;
+  background: #323238;
+  padding: 3rem;
+  position: relative;
+  border-radius: 0.24rem;
+}
+
+.active1 {
+  background: #015f43;
+}
+
+.active2 {
+  background: #aa2834;
+}
+
+.type1 {
+  color: #00b37e;
+}
+
+.type2 {
+  color: #aa2834;
+}
