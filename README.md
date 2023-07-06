@@ -4,9 +4,12 @@
 </div>
 
 <div align="center">
-	<img src="login.png" />
-	<img src="register.png" />
-	<img src="img.png" />
+  <h2>Página de Login</h2>
+	  <img src="login.png" />
+  <h2>Página de Cadastro</h2>
+	  <img src="register.png" />
+  <h2>Página da aplicação</h2>
+	  <img src="img.png" />
 </div>
 
 <p align="center">
