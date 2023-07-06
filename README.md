@@ -3,7 +3,7 @@
   <img src="logo2.svg" width="400px" />
 </div>
 
-<div align="left">
+<div align="center">
 
 ## 🚀 Página de Login
 
@@ -25,7 +25,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
