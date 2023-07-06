@@ -4,7 +4,7 @@ import { Table } from '../components/Table'
 
 export function Transactions() {
   return (
-    <main className="bg-shape w-full h-full mx-auto items-center">
+    <main className="bg-shape w-full h-screen mx-auto items-center">
       <Header />
       <Summary />
       <Table />

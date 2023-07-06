@@ -17,7 +17,7 @@ export function SignOut() {
         <button
           className="text-base text-white flex 
           justify-center items-center gap-2 bg-red absolute
-          right-5 top-5  p-2  py-0 px-5 rounded h-12 transition-all hover:bg-green/90">
+          right-5 top-5  p-2  py-0 px-5 rounded h-12 transition-all hover:bg-red/90">
           <FiLogOut className="text-white text-lg" />
           Logout
         </button>

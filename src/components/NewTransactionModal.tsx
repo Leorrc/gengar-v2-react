@@ -9,9 +9,9 @@ import { useContext } from 'react'
 import { toast } from 'react-toastify'
 
 const newTransactionFormSchema = z.object({
-  title: z.string(),
+  title: z.string().transform(title => title.toLowerCase()),
   amount: z.number(),
-  category: z.string(),
+  category: z.string().transform(category => category.toLowerCase()),
   type: z.enum(['deposit', 'withdraw']),
 })
 

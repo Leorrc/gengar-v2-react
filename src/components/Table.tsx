@@ -56,7 +56,7 @@ export function Table() {
               {transactions.map((t: Transaction, index) => {
                 return (
                   <tr key={index} className='bg-shape2'>
-                    <td className="py-4 px-8 rounded-l-lg text-textBody">
+                    <td className="py-4 px-8 rounded-l-lg text-textBody capitalize">
                       {t.title}
                     </td>
                     <td
