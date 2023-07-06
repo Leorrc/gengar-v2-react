@@ -3,13 +3,23 @@
   <img src="logo2.svg" width="400px" />
 </div>
 
-<div align="center">
-  <h2>Página de Login</h2>
-	  <img src="login.png" />
-  <h2>Página de Cadastro</h2>
-	  <img src="register.png" />
-  <h2>Página da aplicação</h2>
-	  <img src="img.png" />
+<div align="left">
+
+## 🚀 Página de Login
+
+  <img src="login.png" />
+
+## 🚀 Página de Cadastro
+
+  <img src="register.png" />
+
+## 🚀 Página da aplicação
+
+  <img src="img.png" />
+
+## 🚀 Modal
+
+  <img src="modal.png" />
 </div>
 
 <p align="center">
