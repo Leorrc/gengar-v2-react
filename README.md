@@ -20,6 +20,13 @@
 ## 🚀 Modal
 
   <img src="modal.png" />
+
+## 🚀 Preview
+
+<video width="70%" controls="controls" autoplay="autoplay">
+  <source src=".github/gengar.mp4" type="video/mp4">
+</video>
+
 </div>
 
 <p align="center">
