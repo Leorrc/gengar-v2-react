@@ -23,8 +23,9 @@
 
 ## 🚀 Preview
 
+https://github.com/Leorrc/gengar-v2-react/assets/100796907/b7cc4a9e-6d31-4e7a-aaa8-06808f0a4854
+
 </div>
-https://github-production-user-asset-6210df.s3.amazonaws.com/100796907/254333333-f9139f42-1bf4-4213-bb9b-84feec02ee98.mp4
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
