@@ -23,9 +23,8 @@
 
 ## 🚀 Preview
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/100796907/254333333-f9139f42-1bf4-4213-bb9b-84feec02ee98.mp4
-
 </div>
+https://github-production-user-asset-6210df.s3.amazonaws.com/100796907/254333333-f9139f42-1bf4-4213-bb9b-84feec02ee98.mp4
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
