@@ -23,13 +23,13 @@
 
 ## 🚀 Preview
 
-<iframe width="560" height="315" src="https://vimeo.com/846319830?share=copy#t=3" frameborder="0" allowfullscreen></iframe>
-
 </div>
+
+<iframe width="560" height="315" src="https://vimeo.com/846319830?share=copy#t=3" frameborder="0" allowfullscreen></iframe>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
