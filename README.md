@@ -23,15 +23,13 @@
 
 ## 🚀 Preview
 
-<video width="70%" controls="controls" autoplay="autoplay">
-  <source src=".github/gengar.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://vimeo.com/846319830?share=copy#t=3" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
