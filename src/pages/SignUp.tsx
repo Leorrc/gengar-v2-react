@@ -44,12 +44,12 @@ export function SignUp() {
         <motion.div
           initial={{ x: '13%' }}
           animate={{ x: '0' }}
-          className="HeaderColor  w-[50%] h-full py-10 px-0 rounded"></motion.div>
+          className="HeaderColor lg:w-[50%] h-full py-10 px-0 rounded"></motion.div>
 
         <motion.div
           initial={{ x: '-13%' }}
           animate={{ x: '0' }}
-          className="w-[50%] max-h-[56.25rem] py-10 px-0 md:p-12">
+          className="lg:w-[50%] max-h-[56.25rem] py-10 px-0 md:p-12">
           <header className="flex flex-col items-center">
             <img
               className="animate-[gengar_2s_ease-in-out_infinite] drop-shadow-[0_0_1rem_rgb(36,15,70)] mx-auto w-auto h-auto"
